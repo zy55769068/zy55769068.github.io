@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 碧雪晴天的博客 | BY Blog
+title: 碧雪晴天
+SEOTitle: 碧雪晴天的博客
 header-img: img/post-bg-desk.jpg
 email: zy55769068@outlook.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 碧雪晴天的博客, ZhangYi, Xamarin, iOS, Apple, iPhone"
+keyword: "碧雪晴天的博客, ZhangYi, Xamarin, Xamarin.Forms"
 url: "http://zy55769068.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zy55769068/zy55769068.github.io.git" # you code repository
@@ -17,7 +17,7 @@ sidebar-about-description: "Goals determine what you going to be!"
 
 
 # SNS settings
-RSS: true
+RSS: false
 weibo_username:     3391521432
 #zhihu_username:     qiubaiying
 github_username:    zy55769068
@@ -86,7 +86,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -97,6 +97,6 @@ service-worker: true
 
 
 # Friends
-friends: [
+# friends: [
     
-]
+# ]
