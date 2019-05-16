@@ -17,7 +17,7 @@ sidebar-about-description: "Goals determine what you going to be!"
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     3391521432
 #zhihu_username:     qiubaiying
 github_username:    zy55769068
