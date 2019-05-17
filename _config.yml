@@ -40,9 +40,8 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
-
 gems: [jekyll-sitemap]
-
+gems: [jekyll-seo-tag]
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -92,7 +91,8 @@ service-worker: true
 
 plugins:
   - jekyll-sitemap
-
+  - jekyll-seo-tag
+  - jekyll-paginate
 # Friends
 # friends: [
     
